@@ -2,7 +2,7 @@
 
 # Hi, I'm Shravya Pandey 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:8A2BE2&text=Shravya%20Pandey&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:8A2BE2&text=Shravya%20Pandey&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20UI%20UX%20Designer&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=850&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+Meetifyy;Full+Stack+Developer"/>
 
