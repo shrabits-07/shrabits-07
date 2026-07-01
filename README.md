@@ -40,8 +40,8 @@ Data Science student passionate about AI, Machine Learning, Product Engineering 
 
 | Domain | Level | Details |
 |---|---|---|
-| Machine Learning | Intermediate | Model Building |
-| Data Science | Intermediate | Analysis & Visualization |
+| Machine Learning | Beginner | Model Building |
+| Data Science | Beginner | Analysis & Visualization |
 | UI/UX | Intermediate | Canva & Figma |
 | Product Thinking | Advanced | Startup Development |
 
