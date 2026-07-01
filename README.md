@@ -22,7 +22,7 @@
 
 ## 🚀 About
 
-Data Science student passionate about AI, Machine Learning, Product Engineering and Full Stack Development. Currently building **Meetifyy**, a student community platform.
+Data Science student passionate about AI, Machine Learning, Product Engineering and Full Stack Development. Currently building **Meetifyy**, a student community platform as well as SehatGo, a health monitoring system to help people in need.
 
 ## 🛠 Tech Stack
 
@@ -42,7 +42,7 @@ Data Science student passionate about AI, Machine Learning, Product Engineering 
 |---|---|---|
 | Machine Learning | Intermediate | Model Building |
 | Data Science | Intermediate | Analysis & Visualization |
-| UI/UX | Intermediate | Figma |
+| UI/UX | Intermediate | Canva | Figma |
 | Product Thinking | Advanced | Startup Development |
 
 ---
@@ -120,7 +120,7 @@ Exploring:
 
 ---
 
-> "Build technology that brings people together."
+> "Everyday Hustle :)"
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6C63FF,100:8A2BE2"/>
