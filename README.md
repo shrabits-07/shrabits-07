@@ -103,17 +103,19 @@ Python command-line productivity application.
 ## 🌱 Current Focus
 
 ```yaml
-learning:
-  - Machine Learning
-  - React
-building:
+Learning:
+  - Python
+  - Working with Datasets
+  - UI/UX Design
+
+Building:
   - Meetifyy
-exploring:
-  - AI
+  - SehatGo
+
+Exploring:
   - Product Design
-open_to:
-  - Internships
-  - Open Source
+  - Full-Stack Web Development
+  - Data Manipulation & Analysis
 ```
 
 ---
